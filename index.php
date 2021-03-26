@@ -7,7 +7,7 @@
 </head>
 <body>
 	<p>Name :Aibek</p>
-	<p>LastName : kaldybaev</p>
+	<p>LastName : Omurgaziev</p>
 	<p>University : Ala-Too</p>
 	
 	
